@@ -12,3 +12,5 @@ Et les perfs affichée dans le stdout:
                  (ns/day)    (hour/ns)
 Performance:      167.535        0.143
 ```
+
+Le fichier de log est `eql.log`.
